@@ -1,9 +1,18 @@
-var name = "Pramod";
+var name = "Namu";
 
-var firstName = "Pramod";
-var lastName = "Dutta"; // CamelCase
+var firstName = "namu";   //CamelCase is a common convention for naming variables in JavaScript.
+var lastName = "Jadhav";
 
-var first_name = "Amit"; // Snake Case
+var first_name = "Namu";  //Snake_case is another convention, but less common in JavaScript.
+
+var $name = "Namu";       //Using a dollar sign is allowed, but not recommended for variable names. 
+//=======================================================================
+// var name = "Pramod";
+
+// var firstName = "Pramod";
+// var lastName = "Dutta"; // CamelCase
+
+// var first_name = "Amit"; // Snake Case
 
 // Naming Conventions (Cases)
 // ============================================

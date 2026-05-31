@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "name": "playwright-ai-projects",
+    "version": "1.0.0",
+    "description": "JavaScript learning with Playwright"
+}
