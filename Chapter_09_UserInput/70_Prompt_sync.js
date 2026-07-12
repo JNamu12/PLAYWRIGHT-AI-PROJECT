@@ -1,5 +1,4 @@
-import promptSync from "prompt-sync";
-const prompt = promptSync();
+const prompt = require("prompt-sync")();
 
 let num = Number(prompt("Enter a number: "));
 

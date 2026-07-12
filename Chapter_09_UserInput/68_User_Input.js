@@ -1,11 +1,8 @@
-import promptSync from "prompt-sync";
-const prompt = promptSync();
-
-let num = prompt("Enter a number: ");
-num = Number(num); // Convert string to a number
+let num = prompt("Enter a number:");
+num = Number(num);  // convert string to number
 
 if (num % 2 === 0) {
-    console.log(num + " is even");
+    console.log(num + " is Even");
 } else {
-    console.log(num + " is odd");
+    console.log(num + " is Odd");
 }
